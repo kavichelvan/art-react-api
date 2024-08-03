@@ -5,9 +5,3 @@ To start run the below command
 ```
 node server.js
 ```
-
-To start run the below command
-
-```
-node server.js
-```
