@@ -11,7 +11,7 @@ const port = 5000;
 // Enable CORS
 app.use(cors());
 
-// Swagger setup
+// Swagger setup done
 const swaggerOptions = {
   swaggerDefinition: {
     openapi: "3.0.0",
